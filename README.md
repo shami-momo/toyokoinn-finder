@@ -4,6 +4,8 @@
 
 ## 시작하기
 
+GitHub에서 **Code → Download ZIP**을 눌러 내려받고 압축을 풉니다.
+
 1. Windows에 Python 3.10 이상을 설치합니다. [Python 다운로드](https://www.python.org/downloads/)
 2. 폴더의 **Start.cmd**를 두 번 클릭합니다. 처음 실행할 때는 필요한 파일을 설치하므로 인터넷 연결이 필요합니다.
 3. 숙박 조건과 호텔을 선택하고 **감시 대상에 추가**를 누릅니다. 여러 일정을 추가할 수 있습니다.
